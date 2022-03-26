@@ -1,4 +1,7 @@
-SAFALUNA CODE TEAM
-- STUDY CLUB FOR NEWBIE PROGRAMMER
-- STUDY FOR OUR LIFE
-- STUDY MONOREPO
+SAFALUNA CODE ROADMAP
+- BackEnd
+  - NodeJS, ExpressJS
+  - NodeJS, NestJS
+ -FrontEnd
+  - EJS Engine Template
+  - Angular
